@@ -118,4 +118,4 @@ KPI_Sales = CALCULATE(SUM('Sales'[OrderAmount]), 'Sales'[Category] = "Beverages"
 ```
 
 ## Next Steps
-Proceed to the next section: [Section 07 - Tableau](./Section%2007%20-%20Tableau) (link to the next section).
+Proceed to the next section: [Section 07 - Tableau](../Section%2007%20-%20Tableau) (link to the next section).

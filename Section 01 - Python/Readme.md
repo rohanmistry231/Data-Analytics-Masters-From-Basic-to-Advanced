@@ -84,4 +84,4 @@ file.close()
 ```
 
 ## Next Steps
-Proceed to the next section: [Section 02 - Business Statistics](./Section%2002%20-%20Business%20Statistics)  (link to the next section).
+Proceed to the next section: [Section 02 - Business Statistics](../Section%2002%20-%20Business%20Statistics) (link to the next section).

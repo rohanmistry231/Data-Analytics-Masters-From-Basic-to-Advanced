@@ -91,4 +91,4 @@ print(f"P-value: {p_value:.3f}")
 ```
 
 ## Next Steps
-Proceed to the next section: [Section 04 - SQL](./Section%2004%20-%20SQL) (link to the next section).
+Proceed to the next section: [Section 04 - SQL](../Section%2004%20-%20SQL) (link to the next section).
