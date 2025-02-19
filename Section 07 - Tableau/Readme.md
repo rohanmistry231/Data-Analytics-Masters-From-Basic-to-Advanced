@@ -100,4 +100,4 @@ SUM([Sales]) / SUM([Profit])
 ```
 
 ## Next Steps
-Proceed to the next section: [Section 08 - Predictive Analytics](#) (link to the next section).
+Proceed to the next section: [Section 08 - Predictive Analytics](./Section%2008%20-%20Predictive%20Analytics) (link to the next section).

@@ -67,4 +67,4 @@ By the end of this section, you will:
 ---
 
 ## Next Steps
-Proceed to the next section: [Section 06 - Power BI](#) (link to the next section).
+Proceed to the next section: [Section 06 - Power BI](./Section%2006%20-%20Power%20BI) (link to the next section).

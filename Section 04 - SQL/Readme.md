@@ -105,4 +105,4 @@ conn.close()
 ```
 
 ## Next Steps
-Proceed to the next section: [Section 05 - Microsoft Excel](#) (link to the next section).
+Proceed to the next section: [Section 05 - Microsoft Excel](./Section%2005%20-%20Microsoft%20Excel) (link to the next section).

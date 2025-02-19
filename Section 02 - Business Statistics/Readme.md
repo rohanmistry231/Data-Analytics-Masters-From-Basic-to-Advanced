@@ -92,4 +92,4 @@ By the end of this section, you will:
 - **P-value**: Probability of observing the data given the null hypothesis.
 
 ## Next Steps
-Proceed to the next section: [Section 03 - Exploratory Data Analysis](#) (link to the next section).
+Proceed to the next section: [Section 03 - Exploratory Data Analysis](./Section%2003%20-%20Exploratory%20Data%20Analysis) (link to the next section).

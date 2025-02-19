@@ -100,4 +100,4 @@ print("Accuracy:", knn_model.score(X_test, y_test))
 ---
 
 ## Next Steps
-Proceed to the next section: [Section 09 - ETL](#) (link to the next section).
+Proceed to the next section: [Section 09 - ETL](./Section%2009%20-%20ETL) (link to the next section).

@@ -106,4 +106,4 @@ print("Data successfully loaded into the warehouse!")
 ```
 
 ## Next Steps
-Proceed to the next section: [Section 10 - Interview Guides](#) (link to the next section).
+Proceed to the next section: [Section 10 - Interview Guides](./Section%2010%20-%20Interview%20Guides) (link to the next section).
