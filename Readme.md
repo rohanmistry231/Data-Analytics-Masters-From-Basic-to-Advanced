@@ -16,7 +16,7 @@ Each section is designed to provide **theoretical knowledge, hands-on coding exe
 ✔️ Iterators, Generators, and Lambda Functions  
 ✔️ Python for Data Science (NumPy, Pandas, Matplotlib)  
 
-🔗 [Explore Section 01 - Python](./Section%2001%20-%20Python/README.md)  
+🔗 [Explore Section 01 - Python](./Section%2001%20-%20Python/Readme.md)  
 
 ---
 
@@ -27,7 +27,7 @@ Each section is designed to provide **theoretical knowledge, hands-on coding exe
 ✔️ Hypothesis Testing  
 ✔️ Correlation & Regression Analysis  
 
-🔗 [Explore Section 02 - Business Statistics](./Section%2002%20-%20Business%20Statistics/README.md)  
+🔗 [Explore Section 02 - Business Statistics](./Section%2002%20-%20Business%20Statistics/Readme.md)  
 
 ---
 
@@ -38,7 +38,7 @@ Each section is designed to provide **theoretical knowledge, hands-on coding exe
 ✔️ Outlier Detection & Feature Engineering  
 ✔️ Statistical Summarization  
 
-🔗 [Explore Section 03 - Exploratory Data Analysis](./Section%2003%20-%20Exploratory%20Data%20Analysis/README.md)  
+🔗 [Explore Section 03 - Exploratory Data Analysis](./Section%2003%20-%20Exploratory%20Data%20Analysis/Readme.md)  
 
 ---
 
@@ -49,7 +49,7 @@ Each section is designed to provide **theoretical knowledge, hands-on coding exe
 ✔️ Stored Procedures, Triggers, and Views  
 ✔️ SQL for Data Analysis  
 
-🔗 [Explore Section 04 - SQL](./Section%2004%20-%20SQL/README.md)  
+🔗 [Explore Section 04 - SQL](./Section%2004%20-%20SQL/Readme.md)  
 
 ---
 
@@ -60,7 +60,7 @@ Each section is designed to provide **theoretical knowledge, hands-on coding exe
 ✔️ Data Cleaning & Macros  
 ✔️ Excel for Business Intelligence  
 
-🔗 [Explore Section 05 - Microsoft Excel](./Section%2005%20-%20Microsoft%20Excel/README.md)  
+🔗 [Explore Section 05 - Microsoft Excel](./Section%2005%20-%20Microsoft%20Excel/Readme.md)  
 
 ---
 
@@ -71,7 +71,7 @@ Each section is designed to provide **theoretical knowledge, hands-on coding exe
 ✔️ Building Dashboards & Interactive Reports  
 ✔️ Power BI Service & Cloud Sharing  
 
-🔗 [Explore Section 06 - Power BI](./Section%2006%20-%20Power%20Bl/README.md)  
+🔗 [Explore Section 06 - Power BI](./Section%2006%20-%20Power%20Bl/Readme.md)  
 
 ---
 
@@ -82,7 +82,7 @@ Each section is designed to provide **theoretical knowledge, hands-on coding exe
 ✔️ Dashboarding & Storytelling with Data  
 ✔️ Level of Detail (LOD) Expressions  
 
-🔗 [Explore Section 07 - Tableau](./Section%2007%20-%20Tableau/README.md)  
+🔗 [Explore Section 07 - Tableau](./Section%2007%20-%20Tableau/Readme.md)  
 
 ---
 
@@ -93,7 +93,7 @@ Each section is designed to provide **theoretical knowledge, hands-on coding exe
 ✔️ Time Series Forecasting  
 ✔️ Model Evaluation & Performance Metrics  
 
-🔗 [Explore Section 08 - Predictive Analytics](./Section%2008%20-%20Predictive%20Analytics/README.md)  
+🔗 [Explore Section 08 - Predictive Analytics](./Section%2008%20-%20Predictive%20Analytics/Readme.md)  
 
 ---
 
@@ -104,7 +104,7 @@ Each section is designed to provide **theoretical knowledge, hands-on coding exe
 ✔️ Data Lakes vs. Data Warehouses  
 ✔️ Building an ETL Pipeline  
 
-🔗 [Explore Section 09 - ETL](./Section%2009%20-%20ETL/README.md)  
+🔗 [Explore Section 09 - ETL](./Section%2009%20-%20ETL/Readme.md)  
 
 ---
 
@@ -115,7 +115,7 @@ Each section is designed to provide **theoretical knowledge, hands-on coding exe
 ✔️ Data Visualization Best Practices  
 ✔️ PL-300 Certification & BI Role Preparation  
 
-🔗 [Explore Section 10 - Interview Guides](./Section%2010%20-%20Interview%20Guides/README.md)  
+🔗 [Explore Section 10 - Interview Guides](./Section%2010%20-%20Interview%20Guides/Readme.md)  
 
 ---
 
