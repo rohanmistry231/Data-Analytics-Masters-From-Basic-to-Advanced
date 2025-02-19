@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20213.21.0917.1006                               -->
+<workbook original-version='18.1' source-build='2021.3.1 (20213.21.0917.1006)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='Sheet1 (Random)' inline='true' name='federated.12fc8yq1rfdcsd18m3b3s09rnrh0' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Random' name='excel-direct.0c4zzcx0eb1y7m1g7gmas0ntaw89'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/User/OneDrive/Desktop/Random.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.0c4zzcx0eb1y7m1g7gmas0ntaw89' name='Sheet1' table='[Sheet1$]' type='table'>
+          <columns gridOrigin='A1:D4:no:A1:D4:0' header='yes' outcome='6'>
+            <column datatype='string' name='First Name' ordinal='0' />
+            <column datatype='string' name='Last Name' ordinal='1' />
+            <column datatype='string' name='Email' ordinal='2' />
+            <column datatype='integer' name='Contact' ordinal='3' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='excel-direct.0c4zzcx0eb1y7m1g7gmas0ntaw89' name='Sheet1' table='[Sheet1$]' type='table'>
+          <columns gridOrigin='A1:D4:no:A1:D4:0' header='yes' outcome='6'>
+            <column datatype='string' name='First Name' ordinal='0' />
+            <column datatype='string' name='Last Name' ordinal='1' />
+            <column datatype='string' name='Email' ordinal='2' />
+            <column datatype='integer' name='Contact' ordinal='3' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:D4:no:A1:D4:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>First Name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[First Name]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>First Name</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RGB_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_A722126F5DF742839E6021D0B1AC4257]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Last Name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Last Name]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Last Name</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RGB_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_A722126F5DF742839E6021D0B1AC4257]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Email</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Email]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Email</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RGB_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_A722126F5DF742839E6021D0B1AC4257]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Contact</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Contact]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Contact</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_A722126F5DF742839E6021D0B1AC4257]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Email Split by fn' datatype='string' name='[Calculation_245446213619933185]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='SPLIT([Email],&apos;@&apos;,2)' />
+      </column>
+      <column caption='Full Name fn' datatype='string' name='[Calculation_245446213620379650]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='[First Name]+&apos; &apos;+[Last Name]' />
+      </column>
+      <column caption='Full Name fn 2' datatype='string' name='[Calculation_245446213620871171]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='&apos;Mr. &apos; + LEFT([First Name], 1) +&apos; &apos; +[Last Name]' />
+      </column>
+      <column caption='Upper fn' datatype='string' name='[Calculation_245446213621391364]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='UPPER([Calculation_245446213620379650])' />
+      </column>
+      <column caption='Contains fn' datatype='string' name='[Calculation_245446213621866502]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='IF CONTAINS([First Name], &apos;jit&apos;) THEN &apos;Contains Characters&apos;&#13;&#10;ELSE &apos;Doesnt contain characters&apos;&#13;&#10;END' />
+      </column>
+      <column caption='ENDSWITH fn' datatype='boolean' name='[Calculation_245446213622575111]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='ENDSWITH([Last Name], &apos;gh&apos;)' />
+      </column>
+      <column caption='Email - Split 1' datatype='string' name='[Email - Split 1]' role='dimension' type='nominal' user:SplitFieldIndex='1' user:SplitFieldOrigin='[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[Email]'>
+        <calculation class='tableau' formula='TRIM( SPLIT( [Email], &quot;@&quot;, -1 ) )' />
+      </column>
+      <column caption='Email - Split 2' datatype='string' name='[Email - Split 2]' role='dimension' type='nominal' user:SplitFieldIndex='2' user:SplitFieldOrigin='[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[Email]'>
+        <calculation class='tableau' formula='TRIM( SPLIT( [Email], &quot;@&quot;, 1 ) )' />
+      </column>
+      <column caption='Lower  fn ' datatype='string' name='[Upper fn (copy)_245446213621592069]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='LOWER([Calculation_245446213620379650])' />
+      </column>
+      <_.fcp.ObjectModelTableType.true...column caption='Sheet1' datatype='table' name='[__tableau_internal_object_id__].[Sheet1_A722126F5DF742839E6021D0B1AC4257]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United Kingdom&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Sheet1' id='Sheet1_A722126F5DF742839E6021D0B1AC4257'>
+            <properties context=''>
+              <relation connection='excel-direct.0c4zzcx0eb1y7m1g7gmas0ntaw89' name='Sheet1' table='[Sheet1$]' type='table'>
+                <columns gridOrigin='A1:D4:no:A1:D4:0' header='yes' outcome='6'>
+                  <column datatype='string' name='First Name' ordinal='0' />
+                  <column datatype='string' name='Last Name' ordinal='1' />
+                  <column datatype='string' name='Email' ordinal='2' />
+                  <column datatype='integer' name='Contact' ordinal='3' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Sheet1 (Random)' name='federated.12fc8yq1rfdcsd18m3b3s09rnrh0' />
+          </datasources>
+          <datasource-dependencies datasource='federated.12fc8yq1rfdcsd18m3b3s09rnrh0'>
+            <column caption='Full Name fn' datatype='string' name='[Calculation_245446213620379650]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='[First Name]+&apos; &apos;+[Last Name]' />
+            </column>
+            <column caption='Full Name fn 2' datatype='string' name='[Calculation_245446213620871171]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='&apos;Mr. &apos; + LEFT([First Name], 1) +&apos; &apos; +[Last Name]' />
+            </column>
+            <column caption='Upper fn' datatype='string' name='[Calculation_245446213621391364]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='UPPER([Calculation_245446213620379650])' />
+            </column>
+            <column caption='Contains fn' datatype='string' name='[Calculation_245446213621866502]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='IF CONTAINS([First Name], &apos;jit&apos;) THEN &apos;Contains Characters&apos;&#13;&#10;ELSE &apos;Doesnt contain characters&apos;&#13;&#10;END' />
+            </column>
+            <column caption='ENDSWITH fn' datatype='boolean' name='[Calculation_245446213622575111]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='ENDSWITH([Last Name], &apos;gh&apos;)' />
+            </column>
+            <column datatype='string' name='[First Name]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Last Name]' role='dimension' type='nominal' />
+            <column caption='Lower  fn ' datatype='string' name='[Upper fn (copy)_245446213621592069]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='LOWER([Calculation_245446213620379650])' />
+            </column>
+            <column-instance column='[Calculation_245446213620379650]' derivation='None' name='[none:Calculation_245446213620379650:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_245446213620871171]' derivation='None' name='[none:Calculation_245446213620871171:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_245446213621391364]' derivation='None' name='[none:Calculation_245446213621391364:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_245446213621866502]' derivation='None' name='[none:Calculation_245446213621866502:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_245446213622575111]' derivation='None' name='[none:Calculation_245446213622575111:nk]' pivot='key' type='nominal' />
+            <column-instance column='[First Name]' derivation='None' name='[none:First Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Last Name]' derivation='None' name='[none:Last Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Upper fn (copy)_245446213621592069]' derivation='None' name='[none:Upper fn (copy)_245446213621592069:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='height' field='[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Calculation_245446213620871171:nk]' value='59' />
+            <format attr='width' value='264' />
+            <format attr='height' field='[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Calculation_245446213621866502:nk]' value='109' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='width' field='[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Calculation_245446213621866502:nk]' value='280' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='pane'>
+                <format attr='minheight' value='-1' />
+                <format attr='maxheight' value='-1' />
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:First Name:nk] / ([federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Last Name:nk] / ([federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Calculation_245446213620379650:nk] / ([federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Calculation_245446213620871171:nk] / ([federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Calculation_245446213621391364:nk] / ([federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Upper fn (copy)_245446213621592069:nk] / ([federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Calculation_245446213621866502:nk] / [federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Calculation_245446213622575111:nk])))))))</rows>
+        <cols />
+      </table>
+      <simple-id uuid='{1533A8AE-20FF-4348-9A4A-80BBAB8C362C}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Calculation_245446213618524160:nk]</field>
+            <field>[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Calculation_245446213619933185:nk]</field>
+            <field>[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Calculation_245446213620379650:nk]</field>
+            <field>[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Calculation_245446213620871171:nk]</field>
+            <field>[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Calculation_245446213621391364:nk]</field>
+            <field>[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Calculation_245446213621866502:nk]</field>
+            <field>[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Calculation_245446213622575111:nk]</field>
+            <field>[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Email - Split 1:nk]</field>
+            <field>[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Email - Split 2:nk]</field>
+            <field>[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Email:nk]</field>
+            <field>[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:First Name:nk]</field>
+            <field>[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Last Name:nk]</field>
+            <field>[federated.12fc8yq1rfdcsd18m3b3s09rnrh0].[none:Upper fn (copy)_245446213621592069:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{BCC67E20-D27C-4F88-89B1-BBCE3758B0B4}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='84' name='Sheet 1' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAABUCAYAAADUKzhSAAAACXBIWXMAABJ0AAASdAHeZh94
+      AAAV70lEQVR4nO2de1xU1drHv+dweUGOZGoqIpZGpllKgqQmptALoZEk5qh4kg7VBImkieZB
+      B6EUDDM5eGkMEyzv4lFLCC+loHhhTNTyindxUIRKQQhm3v3+sWcAFWSAQdDZ38+Hz8dZe61n
+      1izXs/ez916/9fxNEAQBCQkT5e9N3QEJiaZEcgAJk0ZyAAmTRnIACZNGcgAJk0ZyAAmTRnIA
+      CZNGcgAJk0ZyAAmTRnIACZNGcgAJk0ZyAAmTRnIACZNGcgAJk0ZyAAmTRnIACZNGcgAJk0Zy
+      AAmTRnIACZNGcgAJk0ZyAAmTRnIACZNGcgAJk0ZyAAmTRnIACZNGcgAJk0ZyAAmTxry2CiqV
+      6kH0Q0KiSfibtDmuhCkjhUASJo3kABImjeQAEiZNrTfB9+Nikj9+8aeqlFjTutcQAj+agqyX
+      bV0M4e8XDyHJrBz/ZEO69JBRTE5qIklpv3G9RAuWLbHr0pdh40bQt50FAHmpUURcfQNloJNR
+      vzkvNYqtdgqMbPbBkr0M+ZKDlZ/NrGnl4MzIwNEV41cbDXIAkWHMV0UyCNDcVrNv0USmykPQ
+      rEnC35Tmcp3Rcn5jNF/lvcZHs9+nk40F2tICLqp2kJx+kr4jXwCgg7cCZRP3tFnjGlR5ctCW
+      ov5lDUs+VaKJmUB/m9qbGzUEMm9hh9ukMIZb/8aydYcMb/jkeFaqVCZ29j/DvoxWvO4/kE42
+      4tnKzKoNXQfKCNNNfok6YmaFXd8A3hmSy8978w1qYoQrwN0W22NnBzeLiiuKrqd/yazFqRzL
+      KaQEsG7di6GfzCbM3U7sgC4EcpyvInKQhoMxngQflLFqo5xueiMFyQR5zaPl7B187mUDGjU/
+      xYYTk3KUwhILWj71MgEKBeMrQi8N6p9iCY9J4WhhCRYtn+LlAAWK8b2wvfs7ndKJfjucZJt3
+      SV45ngfjhrbYPlZAfr4WHjOrsVZeahRLeR+Fdwd9AVFb2/JBr3N8t2UfOddLoFVPRoV+yOCO
+      lXaKc3ayes33/HK5BK2ZNe0cn8HG/mU+kVWJecqvk7X2O7bsy0E0M4rQDwfTsebuPBR06eqI
+      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
+      4/8BES3a/P1fAXMAAAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
