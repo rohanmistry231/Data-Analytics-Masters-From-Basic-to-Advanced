@@ -138,7 +138,7 @@ Each section is designed to provide **theoretical knowledge, hands-on coding exe
 ## 🚀 How to Use This Repository  
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/Data-Analytics-Masters.git
+   git clone https://github.com/rohanmistry231/Data-Analytics-Masters.git
    cd Data-Analytics-Masters
    ```
 2. **Navigate to the Section You Want to Learn**  
